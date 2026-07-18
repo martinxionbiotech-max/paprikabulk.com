@@ -1,0 +1,141 @@
+site_name: Paprikabulk.com — Technical Documentation
+site_url: https://paprikabulk.com/
+site_description: Complete technical knowledge base for paprika procurement, quality control, specification interpretation, and global supply chain management.
+site_author: Dinweys (Qingdao).Co.,Ltd
+
+repo_url: https://github.com/dinweys/paprika-docs
+repo_name: dinweys/paprika-docs
+
+theme:
+  name: material
+  language: en
+  palette:
+    - scheme: default
+      primary: red
+      accent: red
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+    - content.tabs.link
+  logo: assets/logo.png
+
+extra:
+  social:
+    - icon: fontawesome/brands/globe
+      link: https://paprikabulk.com
+      name: Paprikabulk.com
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/company/dinweys
+
+copyright: Copyright &copy; 2026 Dinweys (Qingdao).Co.,Ltd — All Rights Reserved
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - tables
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  - awesome-pages
+
+nav:
+  - Home: index.md
+  - Abbreviations: abbreviations.md
+
+  - Glossary:
+    - Spice Science:
+      - ASTA Color Value: glossary/spice-science/asta.md
+      - Capsaicin: glossary/spice-science/capsaicin.md
+      - Capsanthin: glossary/spice-science/capsanthin.md
+      - Capsicum: glossary/spice-science/capsicum.md
+      - Carotenoids: glossary/spice-science/carotenoids.md
+      - Moisture Content: glossary/spice-science/moisture.md
+      - Oleoresin: glossary/spice-science/oleoresin.md
+      - Particle Size: glossary/spice-science/particle-size.md
+      - Scoville Heat Units (SHU): glossary/spice-science/shu.md
+    - Quality Control:
+      - Acceptance Criteria: glossary/quality-control/acceptance-criteria.md
+      - Batch Number: glossary/quality-control/batch-number.md
+      - Grade: glossary/quality-control/grade.md
+      - Heavy Metals: glossary/quality-control/heavy-metals.md
+      - Microbiology: glossary/quality-control/microbiology.md
+      - Specification: glossary/quality-control/specification.md
+    - Processing:
+      - Blending: glossary/processing/blending.md
+      - Drying: glossary/processing/drying.md
+      - Grinding: glossary/processing/grinding.md
+      - Packaging: glossary/processing/packaging.md
+      - Sieving: glossary/processing/sieving.md
+      - Sterilization: glossary/processing/sterilization.md
+    - Sourcing & Trade:
+      - Container Loading: glossary/sourcing-trade/container-loading.md
+      - Harvest Season: glossary/sourcing-trade/harvest-season.md
+      - Incoterms: glossary/sourcing-trade/incoterms.md
+      - Origin Traceability: glossary/sourcing-trade/origin-traceability.md
+      - Supplier Qualification: glossary/sourcing-trade/supplier-qualification.md
+    - Documentation & Certification:
+      - Certificate of Analysis (COA): glossary/documentation-certification/coa.md
+      - HACCP: glossary/documentation-certification/haccp.md
+      - Kosher: glossary/documentation-certification/kosher.md
+      - Organic: glossary/documentation-certification/organic.md
+      - Safety Data Sheet (SDS): glossary/documentation-certification/safety-data-sheet.md
+      - Technical Data Sheet (TDS): glossary/documentation-certification/technical-data-sheet.md
+
+  - White Papers:
+    - Paprika Origin Guide: white-papers/paprika-origin-guide.md
+    - ASTA Color Value Guide: white-papers/asta-color-value-guide.md
+    - Paprika Grades Explained: white-papers/paprika-grades-explained.md
+    - Paprika Specifications: white-papers/paprika-specifications.md
+    - Paprika Supply Chain: white-papers/paprika-supply-chain.md
+
+  - Specifications:
+    - Powder - Premium: specifications/paprika-powder/premium-grade.md
+    - Powder - Superior: specifications/paprika-powder/superior-grade.md
+    - Powder - Standard: specifications/paprika-powder/standard-grade.md
+    - Powder - Special ASTA200+: specifications/paprika-powder/special-grade.md
+    - Flakes - Premium: specifications/paprika-flakes/premium-grade.md
+    - Flakes - Superior: specifications/paprika-flakes/superior-grade.md
+    - Flakes - Standard: specifications/paprika-flakes/standard-grade.md
+    - Flakes - Special: specifications/paprika-flakes/special-grade.md
+    - Whole Pods: specifications/whole-pods.md
+    - Grade Comparison: specifications/grade-comparison.md
+
+  - Quality Control:
+    - COA Template: quality-control/coa-template.md
+    - ASTA Color Test Record: quality-control/asta-color-test.md
+    - Particle Size Test Record: quality-control/particle-size-test.md
+    - Supplier Questionnaire: quality-control/supplier-questionnaire.md
+    - Supplier Audit Checklist: quality-control/supplier-audit-checklist.md
+    - Incoming Inspection: quality-control/incoming-inspection.md
+    - Container Loading Inspection: quality-control/container-loading-inspection.md
+    - CAPA Report: quality-control/capa-report.md
+    - Supplier Scorecard: quality-control/supplier-scorecard.md
+
+  - Certifications:
+    - HACCP: certifications/haccp.md
+    - ISO: certifications/iso.md
+    - Kosher: certifications/kosher.md
+    - Organic: certifications/organic.md
+    - Gluten-Free: certifications/gluten-free.md
