@@ -1,0 +1,11 @@
+mkdocs
+mkdocs-material
+mkdocs-material-extensions
+mkdocs-static-i18n
+mkdocs-glightbox
+mkdocs-redirects
+mkdocs-simple-hooks
+mkdocs-minify-plugin
+mkdocs-monorepo-plugin
+Pygments
+pymdown-extensions

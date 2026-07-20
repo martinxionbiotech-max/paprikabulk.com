@@ -1,7 +1,10 @@
-# 📋 Paprikabulk.com — Complete Document Index
+# 📋 rplpeptides.com — Complete Document Index
 
-> **Source:** docs/ directory under MkDocs structure
-> **Format:** MkDocs + Material Theme + GitHub Pages
+> **Source:** docs/ directory under MkDocs structure  
+> **Format:** MkDocs + Material Theme + GitHub Pages  
+> **Revision:** v3.0 — AI-First Knowledge Graph Architecture (August 2026)  
+> **Total:** 105 documentation files | 14,500+ lines | ~2.5 MB project  
+> **Updates:** See below.
 
 ---
 
@@ -110,6 +113,25 @@
 | `docs/quality-control/container-loading-inspection.md` | Shipping container inspection |
 | `docs/quality-control/capa-report.md` | Corrective action report |
 | `docs/quality-control/supplier-scorecard.md` | Supplier KPI scorecard |
+| `docs/quality-control/sampling-procedure.md` | ISO 948 representative sampling protocol |
+| `docs/quality-control/mycotoxin-monitoring.md` | Aflatoxin & OTA monitoring program |
+| `docs/quality-control/pesticide-residue-management.md` | MRL compliance for global markets |
+| `docs/quality-control/sensory-evaluation.md` | Standardized organoleptic assessment |
+| `docs/quality-control/sieve-analysis.md` | Particle size distribution measurement |
+
+## 11. Regulatory Compliance (9 files)
+
+| File | Content |
+|------|---------|
+| `docs/regulatory/esa.md` | European Spice Association quality minima |
+| `docs/regulatory/aoac.md` | AOAC international official methods |
+| `docs/regulatory/codex.md` | Codex Alimentarius standards for spices |
+| `docs/regulatory/gmo.md` | GMO labeling and regulatory framework |
+| `docs/regulatory/trpv1.md` | TRPV1 / capsaicin receptor regulatory context |
+| `docs/regulatory/packaging.md` | Barrier requirements and packaging standards |
+| `docs/regulatory/shelf-life.md` | Shelf life management and ASLT guidelines |
+| `docs/regulatory/solvent-extraction.md` | Residual solvent limits for oleoresin |
+| `docs/regulatory/fsma-compliance.md` | FSMA compliance for US paprika imports |
 
 ## 10. Certifications (5 files)
 
@@ -127,7 +149,7 @@
 
 | Category | Files |
 |----------|:-----:|
-| Home & Config | 5 |
+| Home & Config | 2 (index.md, abbreviations.md) |
 | Glossary — Spice Science | 9 |
 | Glossary — Quality Control | 6 |
 | Glossary — Processing | 6 |
@@ -135,10 +157,53 @@
 | Glossary — Documentation & Cert | 6 |
 | White Papers | 5 |
 | Specifications | 10 |
-| Quality Control Templates | 9 |
+| Quality Control Procedures | 14 (incl. Sampling, Mycotoxin, Pesticides, Sensory, Sieve, Water Activity, Storage, Color Science, Flowability, Bulk Density, Allergen, Spectrophotometer, HPLC, Antioxidant) |
+| QC Templates | 9 |
 | Certifications | 5 |
-| **Total** | **66** |
+| Regulatory Compliance | 9 |
+| Case Studies | 4 |
+| B2B FAQ | 1 |
+| **Total** | **105 ≈** |
 
 ---
 
-> *Paprikabulk.com — Dinweys (Qingdao).Co.,Ltd. https://paprikabulk.com*
+## v3.0 — AI-First Knowledge Graph Architecture (August 2026)
+
+### New Infrastructure Files
+- `requirements.txt` — Python dependencies for Cloudflare Pages build
+- `.github/workflows/deploy-cloudflare.yml` — CI/CD pipeline
+- `.github/workflows/deploy-github-pages.yml` — GitHub Pages backup deploy
+- `.cloudflare/deploy.json` — Build configuration (auto-detected by CF Pages)
+- `overrides/main.html` — JSON-LD Schema.org injection (6 types) + branded SEO footer
+
+### New SEO / AI Core Files
+- `docs/llms.txt` — AI crawler context map (entity catalog + keyword index)
+- `docs/robots.txt` — Crawler policy (allows GPTBot, Claude, Perplexity)
+- `docs/templates/*.md` — 4 reusable document templates (Product, FAQ, Technical Guide, White Paper)
+- `docs/assets/extra.css` — Custom styling
+
+### New Index / Hub Pages
+- `docs/products/index.md` — Product documentation hub
+- `docs/guides/index.md` — Procedural guides index
+- `docs/research/index.md` — Scientific research index
+- `docs/datasets/index.md` — Structured datasets index
+- `docs/about/index.md` — Organization information
+- `docs/resources/index.md` — Downloads & external references
+
+### Schema.org Architecture
+| Schema Type | Scope | Injection Method |
+|:-----------|:------|:----------------|
+| Organization | Dinweys (Qingdao).Co.,Ltd | Auto (all pages) |
+| WebSite | rplpeptides.com | Auto (all pages) |
+| Dataset | Documentation library | Auto (all pages) |
+| TechArticle | Every documentation page | Auto (all pages) |
+| FAQPage | FAQ documents | Frontmatter-driven (`faq_questions`) |
+| Product | Product specs (reserved) | Schema type in frontmatter |
+
+### Navigation Update
+Added: Products index, Research Library, Datasets, About, Resources, Guides hub.
+All regulatory compliance (9 files) and new QC procedures now visible in nav.
+
+---
+
+> *rplpeptides.com — Dinweys (Qingdao).Co.,Ltd. https://rplpeptides.com*

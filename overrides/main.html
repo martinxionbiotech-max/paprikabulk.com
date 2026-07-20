@@ -1,0 +1,145 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  <!-- Canonical URL -->
+  <link rel="canonical" href="{{ page.canonical_url }}" />
+  <meta property="og:url" content="{{ page.canonical_url }}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:site_name" content="Paprikabulk.com — Technical Documentation" />
+  <meta property="og:title" content="{{ page.title | default('Paprikabulk.com') }}" />
+  <meta property="og:description" content="{{ page.meta.description if page.meta and page.meta.description else 'Complete technical knowledge base for paprika procurement, quality control, specification interpretation, and global supply chain management.' }}" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="{{ page.title | default('Paprikabulk.com') }}" />
+
+  <!-- JSON-LD Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": "https://rplpeptides.com/#organization",
+    "name": "Dinweys (Qingdao).Co.,Ltd",
+    "url": "https://rplpeptides.com",
+    "description": "B2B paprika supplier — premium quality paprika powder, flakes, whole pods, and oleoresin for the global food industry.",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://rplpeptides.com/assets/logo.png"
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "Paprikabulk.com"
+    },
+    "sameAs": [
+      "https://rplpeptides.com",
+      "https://github.com/dinweys/paprika-docs"
+    ]
+  }
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": "https://rplpeptides.com/#website",
+    "url": "https://rplpeptides.com",
+    "name": "Paprikabulk.com — Technical Documentation",
+    "description": "Complete technical knowledge base for paprika procurement, quality control, specification interpretation, and global supply chain management.",
+    "publisher": {
+      "@id": "https://rplpeptides.com/#organization"
+    },
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://rplpeptides.com/?q={search_term_string}"
+      },
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    "@id": "https://rplpeptides.com/#dataset",
+    "name": "Paprikabulk.com Technical Documentation Dataset",
+    "description": "Complete B2B technical documentation library for paprika quality standards, specifications, processing methods, regulatory compliance, and sourcing intelligence. Covers ASTA color measurement, grade classification, carotenoid chemistry, HACCP/ISO quality systems, EU/FDA/FSMA regulatory frameworks, and global origin sourcing data.",
+    "url": "https://rplpeptides.com",
+    "creator": {
+      "@id": "https://rplpeptides.com/#organization"
+    },
+    "keywords": "paprika, ASTA color value, spice trade, paprika grades, paprika specifications, paprika quality control, paprika processing, paprika supply chain, capsicum annuum, paprika origin, food safety, HACCP, FSMA"
+  }
+  </script>
+  {% if page and page.meta and page.meta.get('schema_type') == 'FAQPage' %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "@id": "{{ page.canonical_url }}#faq",
+    "name": "{{ page.title }}",
+    "description": "{{ page.meta.description if page.meta.description else '' }}",
+    "mainEntity": {{ page.meta.get('faq_questions', '[]') }}
+  }
+  </script>
+  {% else %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "TechArticle",
+    "@id": "{{ page.canonical_url }}#article",
+    "headline": "{{ page.title | default('Paprikabulk.com Technical Documentation') }}",
+    "description": "{{ page.meta.description if page.meta and page.meta.description else 'Paprika technical documentation' }}",
+    "url": "{{ page.canonical_url }}",
+    "author": {
+      "@type": "Organization",
+      "@id": "https://rplpeptides.com/#organization"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "@id": "https://rplpeptides.com/#organization"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ page.canonical_url }}"
+    },
+    "about": {
+      "@type": "Thing",
+      "name": "Paprika Technical Standards",
+      "description": "{{ page.meta.keywords | default('paprika', true) | join(', ') if page.meta and page.meta.keywords else 'Paprika' }}"
+    }
+  }
+  </script>
+  {% endif %}
+{% endblock %}
+
+{% block footer %}
+<footer class="md-footer">
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        &copy; 2026
+        <a href="https://rplpeptides.com">Dinweys (Qingdao).Co.,Ltd</a>
+        &mdash;
+        Official Technical Documentation Center
+      </div>
+      <div class="md-footer-links">
+        <a href="https://rplpeptides.com">Website: rplpeptides.com</a>
+        &nbsp;|&nbsp;
+        <a href="https://github.com/dinweys/paprika-docs">Source Repository: GitHub</a>
+        &nbsp;|&nbsp;
+        <span>Research Use Only Documentation</span>
+      </div>
+      {% if config.extra.social %}
+      <div class="md-footer-social">
+        {% for social in config.extra.social %}
+        <a href="{{ social.link }}" target="_blank" rel="noopener" title="{{ social.name }}">
+          <span class="twemoji">{% include ".icons/" ~ social.icon ~ ".svg" %}</span>
+        </a>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+  </div>
+</footer>
+{% endblock %}

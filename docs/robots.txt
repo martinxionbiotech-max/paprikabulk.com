@@ -1,0 +1,30 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://rplpeptides.com/sitemap.xml
+
+# Disallow common non-content paths
+Disallow: /assets/
+Disallow: /overrides/
+Disallow: /templates/
+Disallow: /404.html
+
+# Allow AI crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# Crawl-delay
+Crawl-delay: 1
