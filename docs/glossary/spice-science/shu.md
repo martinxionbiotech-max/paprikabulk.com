@@ -132,4 +132,4 @@ A: The EU requires labeling when "chili extract" or capsaicin is an added ingred
 
 ---
 
-*This document is part of the official technical documentation library for **rplpeptides.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved. For the latest version, visit https://rplpeptides.com.*
+*This document is part of the official technical documentation library for **paprikabulk.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved. For the latest version, visit https://paprikabulk.com.*

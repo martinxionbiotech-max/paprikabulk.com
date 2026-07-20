@@ -38,4 +38,4 @@ ASLT at 40°C/75% RH for 3 months corresponds to approximately 12 months at 25°
 
 ---
 
-*This document is part of the official technical documentation library for **rplpeptides.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved.*
+*This document is part of the official technical documentation library for **paprikabulk.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved.*

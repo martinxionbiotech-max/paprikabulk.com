@@ -6,7 +6,7 @@
 
 The complete B2B technical knowledge base for paprika quality standards, product specifications, processing methods, regulatory compliance, and global sourcing intelligence — built as an **AI-first, SEO-optimized, Schema.org-enriched knowledge graph**.
 
-**Live site:** [https://rplpeptides.com](https://rplpeptides.com)
+**Live site:** [https://paprikabulk.com](https://paprikabulk.com)
 
 ---
 
@@ -16,7 +16,7 @@ The complete B2B technical knowledge base for paprika quality standards, product
 |:---------|:------|
 | **Framework** | MkDocs + Material Theme |
 | **Hosting** | Cloudflare Pages (primary) / GitHub Pages (backup) |
-| **Domain** | rplpeptides.com |
+| **Domain** | paprikabulk.com |
 | **Repository** | github.com/dinweys/paprika-docs |
 | **Documents** | 90+ Markdown files, 15,800+ lines, 1.2 MB content |
 | **Schema.org** | Organization, WebSite, Dataset, TechArticle, FAQPage, Product |
@@ -171,7 +171,7 @@ This documentation is designed for AI consumption:
 
 All documents in this repository include the following notice:
 
-> *This document is part of the official technical documentation library for **rplpeptides.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved. For the latest version, visit https://rplpeptides.com.*
+> *This document is part of the official technical documentation library for **paprikabulk.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved. For the latest version, visit https://paprikabulk.com.*
 
 **Research Use Only:** This documentation is provided for technical reference and procurement decision support. Specifications are subject to contractual agreement.
 
@@ -179,6 +179,6 @@ All documents in this repository include the following notice:
 
 ## 📬 Contact
 
-- **Website:** [https://rplpeptides.com](https://rplpeptides.com)
+- **Website:** [https://paprikabulk.com](https://paprikabulk.com)
 - **Company:** Dinweys (Qingdao).Co.,Ltd
 - **Repository:** [github.com/dinweys/paprika-docs](https://github.com/dinweys/paprika-docs)

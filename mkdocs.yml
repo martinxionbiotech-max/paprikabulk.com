@@ -1,5 +1,5 @@
 site_name: Paprikabulk.com — Technical Documentation
-site_url: https://rplpeptides.com/
+site_url: https://paprikabulk.com/
 site_description: Complete technical knowledge base for paprika procurement, quality control, specification interpretation, and global supply chain management.
 site_author: Dinweys (Qingdao).Co.,Ltd
 repo_url: https://github.com/dinweys/paprika-docs
@@ -44,7 +44,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/globe
-      link: https://rplpeptides.com
+      link: https://paprikabulk.com
       name: Paprikabulk.com
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/company/dinweys

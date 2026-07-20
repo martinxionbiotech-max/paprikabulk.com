@@ -1,4 +1,4 @@
-# 📋 rplpeptides.com — Complete Document Index
+# 📋 paprikabulk.com — Complete Document Index
 
 > **Source:** docs/ directory under MkDocs structure  
 > **Format:** MkDocs + Material Theme + GitHub Pages  
@@ -194,7 +194,7 @@
 | Schema Type | Scope | Injection Method |
 |:-----------|:------|:----------------|
 | Organization | Dinweys (Qingdao).Co.,Ltd | Auto (all pages) |
-| WebSite | rplpeptides.com | Auto (all pages) |
+| WebSite | paprikabulk.com | Auto (all pages) |
 | Dataset | Documentation library | Auto (all pages) |
 | TechArticle | Every documentation page | Auto (all pages) |
 | FAQPage | FAQ documents | Frontmatter-driven (`faq_questions`) |
@@ -206,4 +206,4 @@ All regulatory compliance (9 files) and new QC procedures now visible in nav.
 
 ---
 
-> *rplpeptides.com — Dinweys (Qingdao).Co.,Ltd. https://rplpeptides.com*
+> *paprikabulk.com — Dinweys (Qingdao).Co.,Ltd. https://paprikabulk.com*

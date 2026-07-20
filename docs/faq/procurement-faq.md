@@ -339,4 +339,4 @@ The key metric is **ASTA color value**, not visual appearance. Two batches with 
 
 ---
 
-> *These FAQs are based on actual questions received by Dinweys (Qingdao).Co.,Ltd across 5+ years of B2B paprika trade. If you have a question not covered here, [contact us](https://rplpeptides.com) — we publish regular updates based on real buyer inquiries.*
+> *These FAQs are based on actual questions received by Dinweys (Qingdao).Co.,Ltd across 5+ years of B2B paprika trade. If you have a question not covered here, [contact us](https://paprikabulk.com) — we publish regular updates based on real buyer inquiries.*

@@ -41,4 +41,4 @@ Applies to paprika (*Capsicum annuum* L.) in the following forms:
 
 ---
 
-*This document is part of the official technical documentation library for **rplpeptides.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved.*
+*This document is part of the official technical documentation library for **paprikabulk.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved.*

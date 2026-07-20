@@ -135,4 +135,4 @@ The 2026 Food Traceability Rule requires **Key Data Elements (KDEs)** at each Cr
 
 ---
 
-*This document is part of the official technical documentation library for **rplpeptides.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved. For the latest version, visit https://rplpeptides.com.*
+*This document is part of the official technical documentation library for **paprikabulk.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved. For the latest version, visit https://paprikabulk.com.*

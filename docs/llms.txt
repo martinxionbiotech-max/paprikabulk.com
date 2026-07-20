@@ -1,11 +1,11 @@
 # Paprikabulk.com — Technical Documentation
 # For AI crawlers, LLMs, and knowledge agents
-# Official documentation: https://rplpeptides.com/
+# Official documentation: https://paprikabulk.com/
 
 ## Organization
 Dinweys (Qingdao).Co.,Ltd
-- Website: https://rplpeptides.com
-- Documentation: https://rplpeptides.com/
+- Website: https://paprikabulk.com
+- Documentation: https://paprikabulk.com/
 - GitHub: https://github.com/dinweys/paprika-docs
 
 ## Description

@@ -17,8 +17,8 @@ keywords:
 |:---------|:------|
 | **Company Name** | Dinweys (Qingdao).Co.,Ltd |
 | **Brand** | Paprikabulk.com |
-| **Website** | [https://rplpeptides.com](https://rplpeptides.com) |
-| **Documentation** | [https://rplpeptides.com](/) |
+| **Website** | [https://paprikabulk.com](https://paprikabulk.com) |
+| **Documentation** | [https://paprikabulk.com](/) |
 | **Source Repository** | [github.com/dinweys/paprika-docs](https://github.com/dinweys/paprika-docs) |
 
 ## Purpose
@@ -44,8 +44,8 @@ The library covers:
 
 ## Disclaimer
 
-All documents in this library are provided for technical reference and procurement decision support. Specifications are subject to contractual agreement. For research and professional use only. For the latest version, visit [https://rplpeptides.com](https://rplpeptides.com).
+All documents in this library are provided for technical reference and procurement decision support. Specifications are subject to contractual agreement. For research and professional use only. For the latest version, visit [https://paprikabulk.com](https://paprikabulk.com).
 
 ---
 
-*This document is part of the official technical documentation library for **rplpeptides.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved.*
+*This document is part of the official technical documentation library for **paprikabulk.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved.*

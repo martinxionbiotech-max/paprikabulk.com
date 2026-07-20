@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://rplpeptides.com/sitemap.xml
+Sitemap: https://paprikabulk.com/sitemap.xml
 
 # Disallow common non-content paths
 Disallow: /assets/

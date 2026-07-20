@@ -332,4 +332,4 @@ A: Globally, Superior grade (ASTA 120–160) represents the largest volume segme
 
 ---
 
-*This document is part of the official technical documentation library for **rplpeptides.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved. For the latest version, visit https://rplpeptides.com.*
+*This document is part of the official technical documentation library for **paprikabulk.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved. For the latest version, visit https://paprikabulk.com.*
