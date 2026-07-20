@@ -29,19 +29,19 @@ This site is the complete knowledge base for paprika procurement, quality contro
 | Section | Contents | Depth Level |
 |---------|----------|-------------|
 | [Abbreviations](abbreviations.md) | 60+ industry acronyms — ASTA, SHU, COA, FOB, etc. | Quick reference |
-| [Glossary](glossary/) | 32 terms across 5 categories — the entity knowledge base | **Professional Technical Manual** |
-| ┣ [Spice Science](glossary/spice-science/) | ASTA, SHU, capsicum, oleoresin, carotenoids |
-| ┣ [Quality Control](glossary/quality-control/) | Grade, specification, microbiology, heavy metals |
-| ┣ [Processing](glossary/processing/) | Drying, grinding, sieving, sterilization, blending |
-| ┣ [Sourcing & Trade](glossary/sourcing-trade/) | Origin traceability, incoterms, container loading |
-| ┗ [Documentation & Certification](glossary/documentation-certification/) | COA, TDS, SDS, HACCP, organic, kosher |
-| [White Papers](white-papers/) | 5 in-depth technical guides |
+| [Glossary](glossary/index.md) | 32 terms across 5 categories — the entity knowledge base | **Professional Technical Manual** |
+| ┣ [Spice Science](glossary/spice-science/asta.md) | ASTA, SHU, capsicum, oleoresin, carotenoids |
+| ┣ [Quality Control](glossary/quality-control/acceptance-criteria.md) | Grade, specification, microbiology, heavy metals |
+| ┣ [Processing](glossary/processing/drying.md) | Drying, grinding, sieving, sterilization, blending |
+| ┣ [Sourcing & Trade](glossary/sourcing-trade/container-loading.md) | Origin traceability, incoterms, container loading |
+| ┗ [Documentation & Certification](glossary/documentation-certification/coa.md) | COA, TDS, SDS, HACCP, organic, kosher |
+| [White Papers](white-papers/index.md) | 5 in-depth technical guides |
 | ┣ [Paprika Origin Guide](white-papers/paprika-origin-guide.md) | Global growing regions comparison |
 | ┣ [ASTA Color Value Guide](white-papers/asta-color-value-guide.md) | How ASTA is measured & interpreted |
 | ┣ [Paprika Grades Explained](white-papers/paprika-grades-explained.md) | Premium vs Superior vs Standard vs Special |
 | ┣ [Paprika Specifications](white-papers/paprika-specifications.md) | What every spec parameter means |
 | ┗ [Paprika Supply Chain](white-papers/paprika-supply-chain.md) | Farm → Factory → Port → Destination |
-| [Specifications](specifications/) | Product spec sheets |
+| [Specifications](specifications/index.md) | Product spec sheets |
 | ┣ [Powder — Premium](specifications/paprika-powder/premium-grade.md) | ASTA 160–200 |
 | ┣ [Powder — Superior](specifications/paprika-powder/superior-grade.md) | ASTA 120–160 |
 | ┣ [Powder — Standard](specifications/paprika-powder/standard-grade.md) | ASTA 80–120 |
@@ -52,7 +52,7 @@ This site is the complete knowledge base for paprika procurement, quality contro
 | ┣ [Flakes — Special](specifications/paprika-flakes/special-grade.md) | ASTA 200+ |
 | ┣ [Whole Pods](specifications/whole-pods.md) | Dried whole paprika |
 | ┗ [Grade Comparison](specifications/grade-comparison.md) | Side-by-side grade chart |
-| [Quality Control](quality-control/) | QC templates and procedures |
+| [Quality Control](quality-control/index.md) | QC templates and procedures |
 | ┣ [COA Template](quality-control/coa-template.md) | Certificate of Analysis template |
 | ┣ [ASTA Color Test Record](quality-control/asta-color-test.md) | Spectrophotometer test log |
 | ┣ [Particle Size Test](quality-control/particle-size-test.md) | Sieve analysis record |
@@ -62,12 +62,12 @@ This site is the complete knowledge base for paprika procurement, quality contro
 | ┣ [Container Loading Inspection](quality-control/container-loading-inspection.md) | Shipping container inspection |
 | ┣ [CAPA Report](quality-control/capa-report.md) | Corrective action report template |
 | ┗ [Supplier Scorecard](quality-control/supplier-scorecard.md) | Performance evaluation template |
-| [Case Studies](case-studies/) | Real-world quality incidents and resolution |
+| [Case Studies](case-studies/index.md) | Real-world quality incidents and resolution |
 | ┣ [ASTA Color Discrepancy at Port](case-studies/asta-deviation-resolution.md) | Sampling-handling root cause |
 | ┣ [Caking in Container](case-studies/container-caking-incident.md) | Tropical shipping moisture investigation |
 | ┗ [Salmonella Border Detention](case-studies/salmonella-border-detention.md) | FDA regulatory crisis management |
 | [B2B Procurement FAQ](faq/procurement-faq.md) | 10 real quality disputes answered |
-| [Certifications](certifications/) | Food safety & quality certifications |
+| [Certifications](certifications/index.md) | Food safety & quality certifications |
 | ┣ [HACCP](certifications/haccp.md) | Hazard Analysis CCP |
 | ┣ [ISO](certifications/iso.md) | ISO 9001/22000/14001 |
 | ┣ [Kosher](certifications/kosher.md) | Kashrut certification |

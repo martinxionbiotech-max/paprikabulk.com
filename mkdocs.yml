@@ -30,7 +30,6 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.top
-    - navigation.footer
     - navigation.indexes
     - search.suggest
     - search.highlight
@@ -40,18 +39,6 @@ theme:
     - toc.follow
   logo: assets/logo.png
   favicon: assets/favicon.ico
-
-extra:
-  social:
-    - icon: fontawesome/brands/globe
-      link: https://paprikabulk.com
-      name: Paprikabulk.com
-    - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/company/dinweys
-      name: LinkedIn
-    - icon: fontawesome/brands/github
-      link: https://github.com/dinweys/paprika-docs
-      name: GitHub Repository
 
 markdown_extensions:
   - toc:
