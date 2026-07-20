@@ -115,4 +115,4 @@ For multi-topic questions, pull from both the glossary (definition layer) and wh
 
 ---
 
-> *All documents include the official disclaimer at the footer. For the latest version, visit https://paprikabulk.com.*
+> *All documents include the official disclaimer at the footer. For the latest version, visit [paprikabulk.com](https://paprikabulk.com).*

@@ -171,7 +171,7 @@ This documentation is designed for AI consumption:
 
 All documents in this repository include the following notice:
 
-> *This document is part of the official technical documentation library for **paprikabulk.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved. For the latest version, visit https://paprikabulk.com.*
+> *This document is part of the official technical documentation library for **paprikabulk.com** operated by Dinweys (Qingdao).Co.,Ltd. All rights reserved. For the latest version, visit [paprikabulk.com](https://paprikabulk.com).*
 
 **Research Use Only:** This documentation is provided for technical reference and procurement decision support. Specifications are subject to contractual agreement.
 
