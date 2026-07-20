@@ -2,8 +2,6 @@ site_name: Paprikabulk.com — Technical Documentation
 site_url: https://rplpeptides.com/
 site_description: Complete technical knowledge base for paprika procurement, quality control, specification interpretation, and global supply chain management.
 site_author: Dinweys (Qingdao).Co.,Ltd
-site_keywords: paprika, ASTA color value, spice trade, paprika grades, paprika specifications, paprika quality control, paprika processing, paprika supply chain, capsicum annuum, paprika procurement, B2B spice, paprika export
-
 repo_url: https://github.com/dinweys/paprika-docs
 repo_name: dinweys/paprika-docs
 edit_uri: blob/main/docs/
@@ -84,7 +82,6 @@ plugins:
   - glightbox
   - minify:
       minify_html: true
-  - awesome-pages
 
 extra_css:
   - assets/extra.css
