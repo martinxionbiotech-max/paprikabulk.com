@@ -117,6 +117,7 @@ Special Grade ASTA200+ paprika powder serves specialized industrial and premium 
 
 ### Powder Blending for Color Enhancement
 When used as a color booster in blended paprika powder:
+
 | Target Blend ASTA | Special Grade % | Base Grade % |
 |-------------------|-----------------|--------------|
 | 180 | 20% Special + 80% Premium (160 base) | — |

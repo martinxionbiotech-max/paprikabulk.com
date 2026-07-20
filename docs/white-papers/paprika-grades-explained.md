@@ -42,6 +42,7 @@ Unlike wine or olive oil, paprika grading is **not legally standardized** across
 - Best for applications where visual appearance is critical
 
 **Typical Full Specification:**
+
 | Parameter | Specification | Test Method |
 |-----------|--------------|-------------|
 | ASTA Color Value | ≥160 (min) | ASTA 20.1 / ISO 7541 |
@@ -58,6 +59,7 @@ Unlike wine or olive oil, paprika grading is **not legally standardized** across
 | Bulk Density | 0.40–0.60 g/mL | EN 1236 |
 
 **Application Dosage Guide (Premium ASTA 180):**
+
 | Application | Dosage Rate | Color Outcome |
 |------------|-------------|---------------|
 | Cooked sausage (bratwurst type) | 0.15–0.25% | Bright red, appetizing |
@@ -76,6 +78,7 @@ Unlike wine or olive oil, paprika grading is **not legally standardized** across
 - Balances quality and price — offers the best **cost per ASTA unit** in most markets
 
 **Typical Full Specification:**
+
 | Parameter | Specification |
 |-----------|--------------|
 | ASTA Color Value | 120–160 |
@@ -99,6 +102,7 @@ Unlike wine or olive oil, paprika grading is **not legally standardized** across
 - Largest volume grade globally by tonnage
 
 **Typical Full Specification:**
+
 | Parameter | Specification |
 |-----------|--------------|
 | ASTA Color Value | 80–120 |
@@ -120,6 +124,7 @@ Unlike wine or olive oil, paprika grading is **not legally standardized** across
 - Preferred raw material for oleoresin production — higher extraction yield per kg
 
 **Oleoresin Yield Efficiency:**
+
 | Feedstock ASTA | Oleoresin Yield (%) | Oleoresin Color (ASTA equivalent) |
 |---------------|--------------------|----------------------------------|
 | 100 | 3.5–4.5% | 50,000–70,000 |
@@ -269,6 +274,7 @@ Superior costs **+9.8% more** per batch but provides better color quality and re
 **Action:** Tested Premium grade (ASTA 180) at 1.0% (+ 0.1% paprika oleoresin for stability).
 
 **Results:**
+
 | Metric | Before (Standard) | After (Premium + Oleoresin) |
 |--------|-------------------|---------------------------|
 | ASTA of finished product | 2.5 | 3.2 |

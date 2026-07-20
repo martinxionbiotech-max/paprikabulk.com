@@ -102,6 +102,7 @@ A simple field test: cut a representative pod longitudinally — 95% of placenta
 One crop per year in Northern Hemisphere. Plan procurement to cover full annual requirements. Post-harvest pricing is lowest (November–January), typically 10–20% below annual average.
 
 **Forward Contracting Strategy:**
+
 | Contract Type | Price Protection | Volume Guarantee | Premium over Spot |
 |--------------|-----------------|-----------------|-------------------|
 | Spot purchase | None | None | 0% (market rate) |
@@ -169,6 +170,7 @@ Dried pods are processed through a thresher that separates:
 ### Color Sorting (Optical Sorting)
 
 Modern processors use infrared laser / color sorters:
+
 | Sorter Type | Sensors | Throughput | Defect Removal Rate |
 |------------|---------|-----------|-------------------|
 | Belt-type sorter | RGB camera + NIR | 500–1,000 kg/h | 90–95% |
@@ -396,6 +398,7 @@ In-line continuous blending achieves ±3 ASTA consistency vs. ±10 for batch ble
 - 12 weeks for EU customers
 
 **Alternative supply sources** (by origin):
+
 | Primary | Backup 1 | Backup 2 |
 |---------|----------|----------|
 | Xinjiang | Gansu | Inner Mongolia |

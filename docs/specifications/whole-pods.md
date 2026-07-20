@@ -63,6 +63,7 @@ keywords:
 **Default:** EU MRL compliance. China GB 2762 standard available on request.
 
 ### Pesticide Residues
+
 | Market | Standard | Method |
 |--------|----------|--------|
 | EU (Default) | Regulation (EC) No 396/2005 | GC-MS/MS — EN 15662 |
@@ -107,6 +108,7 @@ keywords:
 
 ### Sterilization Prior to Processing
 Whole pods are NOT sterile by default. For food-safe grinding:
+
 | Method | Typical Dosage | Effect on Quality | Cost Premium |
 |--------|---------------|-------------------|--------------|
 | Steam sterilization | 90–100°C, 10–15 min | Minimal color loss (<5%) | Moderate |

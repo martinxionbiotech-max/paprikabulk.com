@@ -17,6 +17,7 @@ The CAPA (Corrective and Preventive Action) system is the formal mechanism for i
 **Scope:** All quality deviations, customer complaints, supplier non-conformances, internal audit findings, and food safety incidents related to Dinweys products and operations.
 
 **Trigger Events for CAPA:**
+
 | Event | Priority | Example |
 |-------|----------|---------|
 | Customer complaint (quality) | High | "Batch 202607-001 has ASTA 140 instead of specification 160 min" |
@@ -59,6 +60,7 @@ Anyone identifying a quality issue may initiate a CAPA. The initiator completes 
 The Investigator (usually QA or the department manager) completes **Section 2** using appropriate RCA tools:
 
 **Recommended RCA Methods:**
+
 | Method | Best For |
 |--------|----------|
 | **5-Why Analysis** | Simple linear failures; human errors |

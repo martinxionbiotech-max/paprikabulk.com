@@ -70,6 +70,7 @@ China is the world's largest producer and exporter of chili peppers, accounting 
 Xinjiang has a typical temperate continental arid climate with 2,800–3,500 annual sunshine hours, diurnal temperature variation of 12–18°C, extremely low precipitation (100–200 mm/year), and irrigation dependent on glacial meltwater. These unique conditions allow peppers to accumulate maximum dry matter during ripening.
 
 **Key Climatic Data:**
+
 | Parameter | Value | Effect on Paprika |
 |-----------|-------|-------------------|
 | Annual sunshine hours | 2,800–3,500 | Highest in China → maximum photosynthesis |
@@ -108,6 +109,7 @@ Xinjiang produces 450,000–550,000 MT of dried peppers annually (40%+ of nation
 Gansu's main paprika regions are in the Hexi Corridor (Wuwei, Zhangye, Jiuquan) and Longdong. Annual sunshine: 2,500–3,000 hours; diurnal temp range: 10–15°C; precipitation: 200–400 mm. Slightly more humid than Xinjiang, resulting in more tender pericarp tissue and fuller aroma compound development.
 
 **Key Climatic Data:**
+
 | Parameter | Value |
 |-----------|-------|
 | Annual sunshine hours | 2,500–3,000 |
@@ -393,6 +395,7 @@ The table below shows approximate price tiers by origin/variety (2025–2026 int
 
 **Q9: How do I select the right Chinese origin for my product?**
 A: Use the following decision matrix:
+
 | If You Prioritize | Choose | Reason |
 |------------------|--------|--------|
 | Maximum color / ASTA | Xinjiang | Highest ASTA values (140–220) |
@@ -409,6 +412,7 @@ A: In Xinjiang, a 2–3 year rotation with wheat or cotton is standard. Continuo
 
 **Q12: Is there a seasonal price pattern for Chinese paprika?**
 A: Yes, the annual price cycle typically follows:
+
 | Period | Price Trend | Reason |
 |--------|------------|--------|
 | Nov–Jan | Low (post-harvest) | Fresh crop supply abundant |

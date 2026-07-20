@@ -53,6 +53,7 @@ Kosher certification confirms that paprika products meet Jewish dietary law (kas
 | **Clean and idle** | Thorough cleaning + 24 h non-use | Equipment that only processed kosher pareve materials |
 
 **Recommended for Paprika Grinders:**
+
 | Equipment | Preferred Kosherization | Procedure |
 |-----------|------------------------|-----------|
 | Hammer mill / pin mill | Hagalah or Libun | Disassemble, clean thoroughly, boil metal components for 30 min |

@@ -48,6 +48,7 @@ This guide walks through every parameter on a typical paprika spec sheet, provid
 **Acceptable Range:** 5–10% (below 5% = over-dried, may have ASTA loss)
 
 **Moisture Impact on Shelf Life:**
+
 | Moisture Content | Mold Risk | ASTA Loss Rate (per year at 20°C) | Recommended Storage |
 |-----------------|-----------|----------------------------------|-------------------|
 | <5% | Very low | 4–7% | Any sealed container |
@@ -72,6 +73,7 @@ Where M = moisture fraction. For example, if spec is 10% but actual is 12%, the 
 **Why It Matters:** Determines dispersion rate, visual appearance, application performance, and processing behavior.
 
 **Mesh Conversion Table:**
+
 | Mesh (US Std) | Opening (μm) | Opening (in) | Classification |
 |--------------|--------------|--------------|---------------|
 | 4 | 4,750 | 0.187 | Extra coarse (flakes) |
@@ -87,6 +89,7 @@ Where M = moisture fraction. For example, if spec is 10% but actual is 12%, the 
 | 200 | 74 | 0.0029 | Microfine |
 
 **Typical Particle Size Specifications:**
+
 | Product Form | Mesh Requirement | Application |
 |-------------|-----------------|-------------|
 | Bulk powder | 95% through 40 mesh | General industrial use |
@@ -110,6 +113,7 @@ Where M = moisture fraction. For example, if spec is 10% but actual is 12%, the 
 - Higher density (0.50–0.65 g/mL): Better packing efficiency, lower shipping volume
 
 **Container Loading Calculator (20 GP container, ~28 m³ internal):**
+
 | Bulk Density | Net Weight per Container | Bags (25 kg) |
 |-------------|------------------------|--------------|
 | 0.40 g/mL | 11,200 kg | 448 |
@@ -130,6 +134,7 @@ Where M = moisture fraction. For example, if spec is 10% but actual is 12%, the 
 **Why It Matters:** Determines heat level. Sweet paprika buyers require low SHU. Pungency level affects application suitability for different cuisines.
 
 **Test Methods:**
+
 | Method | Standard | Principle | Precision | Unit |
 |--------|----------|-----------|-----------|------|
 | HPLC | ISO 3513 (7503-1) | Direct capsaicinoid quantification | High (±5%) | mg/kg capsaicin = SHU/15 |
@@ -139,6 +144,7 @@ Where M = moisture fraction. For example, if spec is 10% but actual is 12%, the 
 **Conversion Formula:** SHU = Total Capsaicinoids (mg/kg) × 15
 
 **Pungency Classification for Paprika:**
+
 | Classification | SHU Range | Capsaicin Content (mg/kg) | Typical Use |
 |---------------|-----------|--------------------------|-------------|
 | Sweet | 0–500 | 0–33 | General sweet paprika |
@@ -171,6 +177,7 @@ Where M = moisture fraction. For example, if spec is 10% but actual is 12%, the 
 **Why It Matters:** Direct indicator of soil contamination or poor cleaning during processing.
 
 **Interpretation:**
+
 | AIA Value | Assessment | Action |
 |-----------|-----------|--------|
 | ≤0.5% | Excellent | Meets all market standards |
@@ -195,6 +202,7 @@ Where M = moisture fraction. For example, if spec is 10% but actual is 12%, the 
 ### 3.5 Pesticide Residues
 
 **Regulatory Frameworks:**
+
 | Market | Regulation | Screening Panels |
 |--------|-----------|-----------------|
 | EU | EC 396/2005 | Default 500+ substances; MRL for paprika typically 0.01–0.05 mg/kg |
@@ -203,6 +211,7 @@ Where M = moisture fraction. For example, if spec is 10% but actual is 12%, the 
 | China | GB 2763 | Varies by pesticide; typically 5–50 limits monitored |
 
 **Common Paprika Pesticide Concerns:**
+
 | Pesticide | Category | EU MRL (mg/kg) | Risk Level During Import |
 |-----------|---------|----------------|------------------------|
 | Chlorpyrifos | Insecticide | 0.01 (effectively banned) | High (banned in EU since 2020) |
@@ -248,6 +257,7 @@ Where M = moisture fraction. For example, if spec is 10% but actual is 12%, the 
 > **Note:** EU standards are generally more stringent. "n=5,c=0" means 5 samples must be tested with zero positive results allowed.
 
 **Microbiological Risk Factors:**
+
 | Factor | Risk | Mitigation |
 |--------|------|------------|
 | High moisture (>10%) | Mold, yeast, bacterial growth | Strict moisture control (CCP) |
@@ -257,6 +267,7 @@ Where M = moisture fraction. For example, if spec is 10% but actual is 12%, the 
 | Prolonged storage in humid conditions | Mycotoxin development | Climate-controlled warehouse |
 
 **Sterilization Options:**
+
 | Method | Effectiveness | ASTA Impact | Regulatory Status |
 |--------|--------------|------------|------------------|
 | Steam sterilization (thermal) | High for bacteria, moderate for spores | −5 to −10% | Allowed globally |
